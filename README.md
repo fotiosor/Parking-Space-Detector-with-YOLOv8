@@ -12,4 +12,4 @@ This solution brings efficiency and accuracy to parking management, transforming
 
 
 
-#AI #YOLOv8 #SmartParking #ObjectDetection #DeepLearning #ComputerVision #AIinAction #Innovation #ParkingTech #TechSolutions
+#AI #YOLOv8 #SmartParking #ObjectDetection #DeepLearning #ComputerVision #AIinAction #Innovation #ParkingTech #TechSolutions #Streamlit
