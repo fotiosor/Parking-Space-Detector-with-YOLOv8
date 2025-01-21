@@ -95,7 +95,7 @@ Create or use an existing JSON file to define parking space configurations. The 
 ### 5. Run the Application
 Launch the Streamlit application:
 ```bash
-streamlit run app.py
+streamlit run appstreamlit.py
 ```
 
 ---
