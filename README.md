@@ -5,11 +5,6 @@
 
 #AI #YOLOv8 #SmartParking #ObjectDetection #DeepLearning #ComputerVision #AIinAction #Innovation #ParkingTech #TechSolutions #Streamlit
 
-
-
-
-# Parking Space Detector with YOLOv8
-
 ## Description
 This project is a **Parking Space Detector** leveraging the **YOLOv8** object detection model and **Streamlit** for real-time video analysis. The application processes video streams to:
 
